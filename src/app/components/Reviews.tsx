@@ -60,7 +60,7 @@ const Reviews = () => {
               <FaCheckCircle className="text-green-600 mt-5 mx-2 text-xl" />
             </div>
             <p className="text-slate-600 mt-6 text-sm">
-              "I'm blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I've bought has exceeded my expectations.”
+              "I am blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I have bought has exceeded my expectations.”
             </p>
           </div>
         </div>
@@ -100,7 +100,7 @@ const Reviews = () => {
               <FaCheckCircle className="text-green-600 mt-5 mx-2 text-xl" />
             </div>
             <p className="text-slate-600 mt-6 text-sm">
-              "As someone who's always on the lookout for unique fashion pieces, I'm thrilled to have stumbled upon Shop.co. The selection of clothes is not only diverse but also on-point with the latest trends.”
+              "As someone who is always on the lookout for unique fashion pieces, I am thrilled to have stumbled upon Shop.co. The selection of clothes is not only diverse but also on-point with the latest trends.”
             </p>
           </div>
         </div>
@@ -120,7 +120,7 @@ const Reviews = () => {
               <FaCheckCircle className="text-green-600 mt-5 mx-2 text-xl" />
             </div>
             <p className="text-slate-600 mt-6 text-sm">
-              "I've been shopping at Shop.co for months now, and I’m always amazed by the variety. Whether I need casual wear or something for a special event, they’ve got it all."
+              "I have been shopping at Shop.co for months now, and I am always amazed by the variety. Whether I need casual wear or something for a special event, they have got it all."
             </p>
           </div>
         </div>
