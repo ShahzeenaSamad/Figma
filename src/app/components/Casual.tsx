@@ -2,7 +2,6 @@
 
 import Image from 'next/image';
 import { RiArrowDropUpLine } from "react-icons/ri";
-import React, { useState } from 'react';
 
 
 
