@@ -60,7 +60,7 @@ const Reviews = () => {
               <FaCheckCircle className="text-green-600 mt-5 mx-2 text-xl" />
             </div>
             <p className="text-slate-600 mt-6 text-sm">
-              "I am blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I have bought has exceeded my expectations.”
+              "I am blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I have bought has exceeded my expectations.
             </p>
           </div>
         </div>
@@ -80,7 +80,7 @@ const Reviews = () => {
               <FaCheckCircle className="text-green-600 mt-5 mx-2 text-xl" />
             </div>
             <p className="text-slate-600 mt-6 text-sm">
-              "Finding clothes that align with my personal style used to be a challenge until I discovered Shop.co. The range of options they offer is truly remarkable, catering to a variety of tastes and occasions.”
+             Finding clothes that align with my personal style used to be a challenge until I discovered Shop.co. The range of options they offer is truly remarkable, catering to a variety of tastes and occasions.
             </p>
           </div>
         </div>
@@ -100,7 +100,7 @@ const Reviews = () => {
               <FaCheckCircle className="text-green-600 mt-5 mx-2 text-xl" />
             </div>
             <p className="text-slate-600 mt-6 text-sm">
-              "As someone who is always on the lookout for unique fashion pieces, I am thrilled to have stumbled upon Shop.co. The selection of clothes is not only diverse but also on-point with the latest trends.”
+              As someone who is always on the lookout for unique fashion pieces, I am thrilled to have stumbled upon Shop.co. The selection of clothes is not only diverse but also on-point with the latest trends.
             </p>
           </div>
         </div>
@@ -120,7 +120,7 @@ const Reviews = () => {
               <FaCheckCircle className="text-green-600 mt-5 mx-2 text-xl" />
             </div>
             <p className="text-slate-600 mt-6 text-sm">
-              "I have been shopping at Shop.co for months now, and I am always amazed by the variety. Whether I need casual wear or something for a special event, they have got it all."
+              I have been shopping at Shop.co for months now, and I am always amazed by the variety. Whether I need casual wear or something for a special event, they have got it all.
             </p>
           </div>
         </div>
@@ -140,7 +140,7 @@ const Reviews = () => {
               <FaCheckCircle className="text-green-600 mt-5 mx-2 text-xl" />
             </div>
             <p className="text-slate-600 mt-6 text-sm">
-              "Shop.co has completely transformed the way I shop for clothes. The styles are fresh and always aligned with current fashion trends. Highly recommend!"
+              Shop.co has completely transformed the way I shop for clothes. The styles are fresh and always aligned with current fashion trends. Highly recommend!
             </p>
           </div>
         </div>
@@ -160,7 +160,7 @@ const Reviews = () => {
               <FaCheckCircle className="text-green-600 mt-5 mx-2 text-xl" />
             </div>
             <p className="text-slate-600 mt-6 text-sm">
-              "The quality and design of the clothes from Shop.co are outstanding! I’ve been able to find everything from workwear to weekend outfits, all in one place."
+              The quality and design of the clothes from Shop.co are outstanding! I’ve been able to find everything from workwear to weekend outfits, all in one place.
             </p>
           </div>
         </div>
