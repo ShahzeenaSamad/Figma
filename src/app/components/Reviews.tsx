@@ -60,7 +60,7 @@ const Reviews = () => {
               <FaCheckCircle className="text-green-600 mt-5 mx-2 text-xl" />
             </div>
             <p className="text-slate-600 mt-6 text-sm">
-              "I am blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I have bought has exceeded my expectations.
+              I am blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I have bought has exceeded my expectations.
             </p>
           </div>
         </div>
